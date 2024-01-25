@@ -40,12 +40,12 @@ const Portfolio = () => {
     },
     {
       id: 4,
-      title: "Raise",
+      title: "Pluviophile",
       img: IMG4,
       description:
-        "Get started with free educational courses to mastery the foundations of startup equity as an African business.",
+        "Love the rain with me.",
       technologies: "Remix | React.js | Webflow | jQuery",
-      link: "https://www.raise.africa/",
+      link: "https://www.youtube.com/watch?v=dglBgJSMr-E&pp=ygUEcmFpbg%3D%3D",
     },
     {
       id: 5,

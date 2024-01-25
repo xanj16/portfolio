@@ -8,9 +8,9 @@ const Contact = () => {
     <section id="contact">
       <h5>Get In Touch</h5>
       <h5>
-        I do receive your messages and will respond a YEAR  :)
+        I do receive your messages and will respond a YEAR after  :)
       </h5>
-      <h2>Contact Me</h2>
+      <h2>tawagi ko</h2>
 
       <div className="container contact__container">
         <div className="contact__options">
@@ -20,8 +20,8 @@ const Contact = () => {
               <MdLocationCity className="contact__option-icon" />
             </div>
             <div className="contact__option-children">
-              <h5>topdev39@gmail.com</h5>
-              <h5>Davao, Philippines</h5>
+              <h5>xndrjoshcoot16@gmail.com</h5>
+              <h5>Pagadian City, Philippines</h5>
             </div>
           </article>
         </div>

@@ -36,7 +36,7 @@ const Intro = () => {
             <br />
             - I focus on providing courage and belief in one self.
             <br />
-            - I believe in keeping my clients engaged throughout the development process, ensuring them.
+            - I believe that spreading positivity and encouragement will help women.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk

@@ -51,7 +51,7 @@ const Testimonials = () => {
   ];
   return (
     <section id="testimonials">
-      <h5>Feedback from my peers</h5>
+      <h5>OKE</h5>
       <h2>Testimonials</h2>
       <Swiper 
         className="container testimonials__container"

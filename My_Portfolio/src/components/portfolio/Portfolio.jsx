@@ -14,7 +14,7 @@ const Portfolio = () => {
     {
       id: 1,
       title: "La Bella",
-      img: IMG1,
+      img: https://scontent.fmnl9-4.fna.fbcdn.net/v/t1.15752-9/414147004_872104171280559_1181182093746384225_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=-LwRHyOh1KwAX9ue3el&_nc_ht=scontent.fmnl9-4.fna&oh=03_AdSoUq3dwTSD-ywCnU15Sg2VOKp4bgFSmnbsnC1hlBbyHg&oe=65D9283B,
       description:
         "It is the website for enjoying music",
       technologies: "React.js | Pixel-perfect | SCSS | Styled Component",

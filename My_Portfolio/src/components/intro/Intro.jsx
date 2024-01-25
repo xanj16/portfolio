@@ -32,7 +32,7 @@ const Intro = () => {
           <p>
             Able Full-stack Cutie with over 17 years of expertise of Charms and Beauty development.
             <br />
-            My goal is to deliver efficient and effective solutions, and I adhere to the following principles in my work:
+            My goal is to deliver confidence, and I adhere to the following principles of my trait:
             <br />
             - I focus on providing solutions that address the client's needs and solve their problems.
             <br />

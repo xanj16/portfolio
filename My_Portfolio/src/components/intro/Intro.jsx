@@ -34,7 +34,7 @@ const Intro = () => {
             <br />
             My goal is to deliver confidence, and I adhere to the following principles of my trait:
             <br />
-            - I focus on providing solutions that address the client's needs and solve their problems.
+            - I focus on providing courage and belief in one self.
             <br />
             - I believe in keeping my clients engaged throughout the development process, ensuring them.
           </p>

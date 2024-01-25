@@ -36,10 +36,10 @@ const Testimonials = () => {
     },
     {
       id: 4,
-      link: 'https://www.linkedin.com/in/javid-aliyev-b343061b6/',
-      name: 'Javid Aliyev',
-      role: 'Full-Stack Web Developer. JavaScript | Rails | React | Redux.',
-      test: "I mentored Christian some months ago, and I can say that he is one of those people that you love to work with. He was always interested in what I was trying to teach him, paying attention and always asking questions if something was not clear. When it comes to professional skills, he is really committed to work, always doing him best and going beyond the requirements of the project he's building.",
+      link: 'https://www.instagram.com/',
+      name: 'Miko Louis',
+      role: 'Englishero',
+      test: "Solid 10 out of 10.",
     },
     {
       id: 5,

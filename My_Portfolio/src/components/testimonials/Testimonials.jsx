@@ -22,10 +22,10 @@ const Testimonials = () => {
     },
     {
       id: 2,
-      link: 'https://www.linkedin.com/in/raul-omarov-7841b7201/',
-      name: 'Raul Omarov',
-      role: 'Full-stack developer | Technical Support Engineer at Microverse',
-      test: "It was a pleasure collaborating with Christian on different projects. One of the things that I think is special about him is that he never settles, even after completing the projects he finds other resources and strengthens him knowledge. Collaborating with him is easy and comfortable, it's like working with someone you've known for a long period of time.",
+      link: 'https://www.instagram.com/',
+      name: 'mari jonelle',
+      role: 'Matured',
+      test: "Youre beauty is like a bottle, because like a bottle a fish cannot swim without its hair.",
     },
     {
       id: 3,

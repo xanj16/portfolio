@@ -29,10 +29,10 @@ const Testimonials = () => {
     },
     {
       id: 3,
-      link: 'https://www.linkedin.com/in/agasi-xalilov/',
-      name: 'Ağası Xəlilov',
-      role: 'Full Stack Developer| PostgreSQL | JavaScript | React | Redux | Html&Css | Python.',
-      test: 'I worked with Christian in the same team and him communication skills are very strong. Him programming skill is one of the bests, given the time frame in the field. He is a good team player.  He will probably fit in most of the companies not only because he\'s a good team worker, but also because he has very good skills and I know he has much more potential to be shown.',
+      link: 'https://www.instagram.com/',
+      name: 'Kyeth Homer',
+      role: 'Gi kalibanga',
+      test: 'kuan, unsay tawag ana, nalimot ko, over confident sa iyang ka gwapa imbes dili.',
     },
     {
       id: 4,

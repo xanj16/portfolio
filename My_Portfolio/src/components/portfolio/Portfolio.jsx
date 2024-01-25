@@ -22,12 +22,12 @@ const Portfolio = () => {
     },
     {
       id: 2,
-      title: "Meet Native",
+      title: "Linda",
       img: IMG2,
       description:
-        "MeetNative is an upselling platform that helps consumers and local businesses get more for their money.",
+        "Ser linda es tan wow.",
       technologies: "React | React Native | Android | iOS",
-      link: "https://meetnative.com/",
+      link: "https://www.youtube.com/watch?v=bRkIL13jVXU&pp=ygUEY3V0ZQ%3D%3D",
     },
     {
       id: 3,

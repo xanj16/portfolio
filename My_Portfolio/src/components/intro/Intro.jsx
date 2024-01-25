@@ -39,7 +39,7 @@ const Intro = () => {
             - I believe that spreading positivity and encouragement will help women.
           </p>
           <a href="#contact" className="btn btn-primary">
-            Let's Talk
+            HABLEMOS
           </a>
         </div>
       </div>

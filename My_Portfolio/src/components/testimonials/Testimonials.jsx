@@ -16,9 +16,9 @@ const Testimonials = () => {
     {
       id: 1,
       link: 'https://www.instagram.com/',
-      name: 'Nəsibəli YUSIBOV',
-      role: 'Front-end Engineer . Improving open-source projects, one commit at a time.',
-      test: 'As a developer and a problem solver, I think Christian is a great collaborative partner to have. I met Christian in some basic javascript & react projects and since then he has drastically progressed in him understanding of the development process. He always has a professional environment and has good audio and video quality which makes it easier to communicate with him.',
+      name: 'Hermosa',
+      role: 'hermoso por dentro y por fuera',
+      test: 'as a beauty, I am proud',
     },
     {
       id: 2,

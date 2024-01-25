@@ -13,12 +13,12 @@ const Portfolio = () => {
   const soloProjects = [
     {
       id: 1,
-      title: "Flexcavo",
+      title: "La Bella",
       img: IMG1,
       description:
-        "It is the website for construction machine renting company (Flexcavo) from Berlin",
+        "It is the website for enjoying music",
       technologies: "React.js | Pixel-perfect | SCSS | Styled Component",
-      link: "https://www.flexcavo.de/",
+      link: "https://www.youtube.com/watch?v=2jTwoSFdfSI&pp=ygUTYmVhdXR5IGFuZCB0aGUgYmVhdA%3D%3D",
     },
     {
       id: 2,

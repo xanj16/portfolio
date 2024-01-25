@@ -30,7 +30,7 @@ const Intro = () => {
             </article>
           </div>
           <p>
-            Able Full-stack Developer with over 6 years of expertise in building Web & Mobile applications development.
+            Able Full-stack Cutie with over 17 years of expertise of Charms and Beauty development.
             <br />
             My goal is to deliver efficient and effective solutions, and I adhere to the following principles in my work:
             <br />
